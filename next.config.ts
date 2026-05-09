@@ -3,10 +3,12 @@ import createNextIntlPlugin from "next-intl/plugin";
 
 const withNextIntl = createNextIntlPlugin("./src/i18n/request.ts");
 
+const isProd = process.env.NODE_ENV === "production";
+
 const nextConfig: NextConfig = {
-  output: "export",
-  basePath: "/ParallelOffset",
-  trailingSlash: true,
+  ...(isProd && { output: "export" }),
+  basePath: isProd ? "/ParallelOffset" : "",
+  trailingSlash: isProd,
 };
 
 export default withNextIntl(nextConfig);
