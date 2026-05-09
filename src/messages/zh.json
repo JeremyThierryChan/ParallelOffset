@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "about": "关于",
+    "music": "音乐",
+    "shows": "演出",
+    "print": "印刷",
+    "contact": "联系"
+  },
+  "hero": {
+    "tagline": "多节奏 · 精准 · 印刷",
+    "sub1": "不对位的节奏",
+    "sub2": "印刷的色彩",
+    "cta": "进入网格",
+    "scroll": "滚动"
+  },
+  "about": {
+    "number": "01",
+    "title": "关于",
+    "headline1": "两种错位",
+    "headline2": "一个乐队",
+    "body1": "诞生于节奏与色彩的交叉点。在 Djent 的世界里，「Offset」意味着那些刻意错开的多节奏层次——当 7 弦吉他的低鸣与奇数拍型交织，制造出令人眩晕的精准混沌。",
+    "body2": "同时，「Offset」也是印刷术语。乐队创始人经营着一家专业印刷厂，CMYK 四色叠印的精密工艺渗透进了乐队的每一个视觉符号：套准标记、色版偏移、四色分离——这些工业美学成为了 Parallel Offset 独特的视觉语言。",
+    "tags": {
+      "djent": "Djent",
+      "progressive": "前卫金属",
+      "polyrhythm": "多节奏",
+      "guitar": "7弦吉他",
+      "time": "9/8拍"
+    }
+  },
+  "music": {
+    "number": "02",
+    "title": "音乐",
+    "stream": "在线收听",
+    "download": "下载",
+    "comingSoon": "更多内容即将发布",
+    "tracks": "首"
+  },
+  "shows": {
+    "number": "03",
+    "title": "演出",
+    "tickets": "购票",
+    "soldOut": "已售罄"
+  },
+  "print": {
+    "number": "04",
+    "title": "印刷",
+    "headline1": "印刷即音乐",
+    "headline2": "色彩即节奏",
+    "body1": "乐队创始人同时经营一家专业印刷厂。CMYK 四色印刷的精密工艺——套准、分色、叠印——与 Djent 音乐的多节奏层次在哲学上高度契合：每一个色版如同每一条节拍轨道，单独看来简单，叠加之后形成复杂的整体。",
+    "body2": "我们为乐队、独立厂牌、音乐节提供专业印刷服务：演出海报、实体专辑封套、T 恤丝印、贴纸、徽章。",
+    "service1": "演出海报",
+    "service2": "专辑封套",
+    "service3": "丝网印刷",
+    "service4": "周边商品",
+    "cta": "联系我们 →"
+  },
+  "contact": {
+    "number": "05",
+    "title": "联系",
+    "namePlaceholder": "您的姓名",
+    "emailPlaceholder": "your@email.com",
+    "subjectPlaceholder": "请选择咨询类型",
+    "messagePlaceholder": "请告诉我们更多...",
+    "subjectBooking": "演出预约",
+    "subjectPrint": "印刷业务",
+    "subjectCollab": "合作洽谈",
+    "subjectPress": "媒体合作",
+    "subjectOther": "其他",
+    "fieldName": "姓名",
+    "fieldEmail": "邮箱",
+    "fieldSubject": "主题",
+    "fieldMessage": "留言",
+    "send": "发送消息",
+    "sentTitle": "消息已发送",
+    "sentSub": "我们会尽快回复您。",
+    "labelBooking": "演出预约",
+    "labelPrintShop": "印刷业务",
+    "labelPress": "媒体合作",
+    "labelFollow": "关注我们"
+  },
+  "footer": {
+    "copy": "© 2024 Parallel Offset. 保留所有权利。"
+  }
+}

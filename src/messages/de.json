@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "about": "ÜBER UNS",
+    "music": "MUSIK",
+    "shows": "KONZERTE",
+    "print": "DRUCK",
+    "contact": "KONTAKT"
+  },
+  "hero": {
+    "tagline": "POLYRHYTHMUS · PRÄZISION · DRUCK",
+    "sub1": "Polyrhythmische Verschiebung",
+    "sub2": "Chromatische Präzision",
+    "cta": "DAS RASTER BETRETEN",
+    "scroll": "SCROLLEN"
+  },
+  "about": {
+    "number": "01",
+    "title": "ÜBER UNS",
+    "headline1": "Zwei Bedeutungen",
+    "headline2": "von Offset",
+    "body1": "entstand an der Schnittstelle von Rhythmus und Farbe. In der Welt des Djent bezeichnet „Offset“ jene absichtlich verschobenen polyrhythmischen Schichten — wo 7-Saiten-Riffs sich mit ungeraden Taktarten verweben und eine präzise, schwindelerregende Komplexität erzeugen.",
+    "body2": "Gleichzeitig ist „Offset“ ein Druckbegriff. Der Bandgründer betreibt eine professionelle Druckerei. Die Präzision des CMYK-Offsetdrucks — Registerpassung, Farbtrennung, Überdrucken — spiegelt die geschichteten Rhythmen des Djent wider: Jede Farbplatte ist eine Rhythmusspur, allein einfach, zusammen komplex.",
+    "tags": {
+      "djent": "Djent",
+      "progressive": "Progressive Metal",
+      "polyrhythm": "Polyrhythmus",
+      "guitar": "7-Saiter",
+      "time": "9/8"
+    }
+  },
+  "music": {
+    "number": "02",
+    "title": "MUSIK",
+    "stream": "STREAMEN",
+    "download": "HERUNTERLADEN",
+    "comingSoon": "BALD VERFÜGBAR",
+    "tracks": "Tracks"
+  },
+  "shows": {
+    "number": "03",
+    "title": "KONZERTE",
+    "tickets": "TICKETS",
+    "soldOut": "AUSVERKAUFT"
+  },
+  "print": {
+    "number": "04",
+    "title": "DRUCK",
+    "headline1": "Druck ist Musik",
+    "headline2": "Farbe ist Rhythmus",
+    "body1": "Der Bandgründer betreibt ebenfalls eine professionelle Druckerei. Die Präzision des CMYK-Drucks — Registerpassung, Farbtrennung, Überdrucken — spiegelt die Philosophie der polyrhythmischen Schichten des Djent wider: Jede Farbplatte ist eine Rhythmusspur, allein einfach, zusammen komplex.",
+    "body2": "Wir bieten professionelle Druckdienstleistungen für Bands, Independent-Labels und Musikfestivals an: Konzertplakate, physische Albumhüllen, Siebdruck-T-Shirts, Aufkleber und Anstecker.",
+    "service1": "Konzertplakate",
+    "service2": "Albumhüllen",
+    "service3": "Siebdruck",
+    "service4": "Merch",
+    "cta": "Kontakt aufnehmen →"
+  },
+  "contact": {
+    "number": "05",
+    "title": "KONTAKT",
+    "namePlaceholder": "Ihr Name",
+    "emailPlaceholder": "ihre@email.com",
+    "subjectPlaceholder": "Anfragetyp auswählen",
+    "messagePlaceholder": "Erzählen Sie uns mehr...",
+    "subjectBooking": "Buchung",
+    "subjectPrint": "Druckdienstleistungen",
+    "subjectCollab": "Zusammenarbeit",
+    "subjectPress": "Presse",
+    "subjectOther": "Sonstiges",
+    "fieldName": "NAME",
+    "fieldEmail": "EMAIL",
+    "fieldSubject": "BETREFF",
+    "fieldMessage": "NACHRICHT",
+    "send": "SENDEN",
+    "sentTitle": "NACHRICHT GESENDET",
+    "sentSub": "Wir melden uns bald bei Ihnen.",
+    "labelBooking": "BUCHUNG",
+    "labelPrintShop": "DRUCKEREI",
+    "labelPress": "PRESSE",
+    "labelFollow": "FOLGEN"
+  },
+  "footer": {
+    "copy": "© 2024 Parallel Offset. Alle Rechte vorbehalten."
+  }
+}

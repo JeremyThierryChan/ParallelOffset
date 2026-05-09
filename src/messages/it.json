@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "about": "CHI SIAMO",
+    "music": "MUSICA",
+    "shows": "CONCERTI",
+    "print": "STAMPA",
+    "contact": "CONTATTO"
+  },
+  "hero": {
+    "tagline": "POLIRITMIA · PRECISIONE · STAMPA",
+    "sub1": "Spostamento Poliritmico",
+    "sub2": "Precisione Cromatica",
+    "cta": "ENTRA NELLA GRIGLIA",
+    "scroll": "SCORRI"
+  },
+  "about": {
+    "number": "01",
+    "title": "CHI SIAMO",
+    "headline1": "Due Significati",
+    "headline2": "di Offset",
+    "body1": "è nata all'intersezione tra ritmo e colore. Nel mondo del Djent, «Offset» indica quegli strati poliritmici deliberatamente spostati — dove i riff bassi di una chitarra a 7 corde si intrecciano con segnature temporali dispari, producendo un caos preciso e vertiginoso.",
+    "body2": "Allo stesso tempo, «Offset» è un termine tipografico. Il fondatore della band gestisce una tipografia professionale. La precisione della stampa offset CMYK — registro, separazione dei colori, sovrastampa — rispecchia gli strati ritmici del Djent: ogni lastra di colore è una traccia ritmica, semplice da sola, complessa insieme.",
+    "tags": {
+      "djent": "Djent",
+      "progressive": "Metal Progressivo",
+      "polyrhythm": "Poliritmia",
+      "guitar": "7 Corde",
+      "time": "9/8"
+    }
+  },
+  "music": {
+    "number": "02",
+    "title": "MUSICA",
+    "stream": "ASCOLTA",
+    "download": "SCARICA",
+    "comingSoon": "PRESTO DISPONIBILE",
+    "tracks": "Tracce"
+  },
+  "shows": {
+    "number": "03",
+    "title": "CONCERTI",
+    "tickets": "BIGLIETTI",
+    "soldOut": "ESAURITO"
+  },
+  "print": {
+    "number": "04",
+    "title": "STAMPA",
+    "headline1": "La Stampa è Musica",
+    "headline2": "Il Colore è Ritmo",
+    "body1": "Il fondatore della band gestisce anche una tipografia professionale. La precisione della stampa CMYK — registro, separazione dei colori, sovrastampa — riflette la filosofia degli strati poliritmici del Djent: ogni lastra di colore è una traccia ritmica, semplice da sola, complessa insieme.",
+    "body2": "Offriamo servizi di stampa professionali per band, etichette indipendenti e festival musicali: poster per concerti, copertine di album fisici, t-shirt serigrafate, adesivi e spille.",
+    "service1": "Poster Concerti",
+    "service2": "Copertine Album",
+    "service3": "Serigrafia",
+    "service4": "Merch",
+    "cta": "Contattaci →"
+  },
+  "contact": {
+    "number": "05",
+    "title": "CONTATTO",
+    "namePlaceholder": "Il tuo nome",
+    "emailPlaceholder": "tua@email.com",
+    "subjectPlaceholder": "Seleziona il tipo di richiesta",
+    "messagePlaceholder": "Dicci di più...",
+    "subjectBooking": "Prenotazione",
+    "subjectPrint": "Servizi di Stampa",
+    "subjectCollab": "Collaborazione",
+    "subjectPress": "Stampa",
+    "subjectOther": "Altro",
+    "fieldName": "NOME",
+    "fieldEmail": "EMAIL",
+    "fieldSubject": "OGGETTO",
+    "fieldMessage": "MESSAGGIO",
+    "send": "INVIA MESSAGGIO",
+    "sentTitle": "MESSAGGIO INVIATO",
+    "sentSub": "Ti risponderemo presto.",
+    "labelBooking": "PRENOTAZIONE",
+    "labelPrintShop": "TIPOGRAFIA",
+    "labelPress": "STAMPA",
+    "labelFollow": "SEGUICI"
+  },
+  "footer": {
+    "copy": "© 2024 Parallel Offset. Tutti i diritti riservati."
+  }
+}

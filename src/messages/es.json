@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "about": "NOSOTROS",
+    "music": "MÚSICA",
+    "shows": "CONCIERTOS",
+    "print": "IMPRESIÓN",
+    "contact": "CONTACTO"
+  },
+  "hero": {
+    "tagline": "POLIRRITMO · PRECISIÓN · IMPRESIÓN",
+    "sub1": "Desplazamiento Polirítmico",
+    "sub2": "Precisión Cromática",
+    "cta": "ENTRAR A LA CUADRÍCULA",
+    "scroll": "DESPLAZAR"
+  },
+  "about": {
+    "number": "01",
+    "title": "NOSOTROS",
+    "headline1": "Dos Significados",
+    "headline2": "de Offset",
+    "body1": "nació en la intersección del ritmo y el color. En el mundo del Djent, «Offset» hace referencia a esas capas polirítmicas deliberadamente desplazadas — donde los riffs de guitarra de 7 cuerdas se entrelazan con compases irregulares, produciendo un caos preciso y vertiginoso.",
+    "body2": "Al mismo tiempo, «Offset» es un término de imprenta. El fundador de la banda dirige un taller de impresión profesional. La precisión de la impresión offset CMYK — registro, separación de colores, sobreimpresión — refleja las capas rítmicas del Djent: cada placa de color es una pista rítmica, simple sola, compleja en conjunto.",
+    "tags": {
+      "djent": "Djent",
+      "progressive": "Metal Progresivo",
+      "polyrhythm": "Polirritmo",
+      "guitar": "7 Cuerdas",
+      "time": "9/8"
+    }
+  },
+  "music": {
+    "number": "02",
+    "title": "MÚSICA",
+    "stream": "ESCUCHAR",
+    "download": "DESCARGAR",
+    "comingSoon": "MÁS PRÓXIMAMENTE",
+    "tracks": "Canciones"
+  },
+  "shows": {
+    "number": "03",
+    "title": "CONCIERTOS",
+    "tickets": "ENTRADAS",
+    "soldOut": "AGOTADO"
+  },
+  "print": {
+    "number": "04",
+    "title": "IMPRESIÓN",
+    "headline1": "La Impresión es Música",
+    "headline2": "El Color es Ritmo",
+    "body1": "El fundador de la banda también dirige un taller de impresión profesional. La precisión de la impresión CMYK — registro, separación de colores, sobreimpresión — refleja la filosofía de las capas polirítmicas del Djent: cada placa de color es una pista rítmica, simple sola, compleja en conjunto.",
+    "body2": "Ofrecemos servicios de impresión profesional para bandas, sellos independientes y festivales de música: carteles de conciertos, fundas de álbumes físicos, camisetas serigrafíadas, pegatinas y chapas.",
+    "service1": "Carteles de Concierto",
+    "service2": "Fundas de Álbum",
+    "service3": "Serigrafía",
+    "service4": "Merch",
+    "cta": "Contáctanos →"
+  },
+  "contact": {
+    "number": "05",
+    "title": "CONTACTO",
+    "namePlaceholder": "Tu nombre",
+    "emailPlaceholder": "tu@email.com",
+    "subjectPlaceholder": "Selecciona el tipo de consulta",
+    "messagePlaceholder": "Cuéntanos más...",
+    "subjectBooking": "Reserva",
+    "subjectPrint": "Servicios de Impresión",
+    "subjectCollab": "Colaboración",
+    "subjectPress": "Prensa",
+    "subjectOther": "Otro",
+    "fieldName": "NOMBRE",
+    "fieldEmail": "EMAIL",
+    "fieldSubject": "ASUNTO",
+    "fieldMessage": "MENSAJE",
+    "send": "ENVIAR MENSAJE",
+    "sentTitle": "MENSAJE ENVIADO",
+    "sentSub": "Te responderemos pronto.",
+    "labelBooking": "RESERVAS",
+    "labelPrintShop": "IMPRENTA",
+    "labelPress": "PRENSA",
+    "labelFollow": "SEGUIR"
+  },
+  "footer": {
+    "copy": "© 2024 Parallel Offset. Todos los derechos reservados."
+  }
+}

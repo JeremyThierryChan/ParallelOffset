@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "about": "ABOUT",
+    "music": "MUSIC",
+    "shows": "SHOWS",
+    "print": "PRINT",
+    "contact": "CONTACT"
+  },
+  "hero": {
+    "tagline": "POLYRHYTHM · PRECISION · PRINT",
+    "sub1": "Polyrhythmic Displacement",
+    "sub2": "Chromatic Precision",
+    "cta": "ENTER THE GRID",
+    "scroll": "SCROLL"
+  },
+  "about": {
+    "number": "01",
+    "title": "ABOUT",
+    "headline1": "Two Kinds",
+    "headline2": "of Offset",
+    "body1": "was born at the intersection of rhythm and colour. In the world of Djent, \"Offset\" means those deliberately displaced polyrhythmic layers — where 7-string low-end riffs interweave with odd time signatures, producing a precise, dizzying chaos.",
+    "body2": "At the same time, \"Offset\" is a printing term. The band's founder runs a professional print shop. The precision of CMYK four-colour offset printing — registration, colour separation, overprinting — parallels Djent's layered rhythms: each colour plate is like a beat track, simple alone, complex together.",
+    "tags": {
+      "djent": "Djent",
+      "progressive": "Progressive Metal",
+      "polyrhythm": "Polyrhythm",
+      "guitar": "7-String",
+      "time": "9/8"
+    }
+  },
+  "music": {
+    "number": "02",
+    "title": "MUSIC",
+    "stream": "STREAM",
+    "download": "DOWNLOAD",
+    "comingSoon": "MORE COMING SOON",
+    "tracks": "Tracks"
+  },
+  "shows": {
+    "number": "03",
+    "title": "SHOWS",
+    "tickets": "TICKETS",
+    "soldOut": "SOLD OUT"
+  },
+  "print": {
+    "number": "04",
+    "title": "PRINT",
+    "headline1": "Print is Music",
+    "headline2": "Colour is Rhythm",
+    "body1": "The band's founder also runs a professional print shop. The precision of CMYK printing — registration, colour separation, overprinting — mirrors the philosophy of Djent's polyrhythmic layers: each colour plate is a beat track, simple on its own, complex as a whole.",
+    "body2": "We provide professional printing services for bands, independent labels, and music festivals: gig posters, physical album sleeves, screen-printed t-shirts, stickers, and badges.",
+    "service1": "Gig Posters",
+    "service2": "Album Sleeves",
+    "service3": "Screen Print",
+    "service4": "Merch",
+    "cta": "Get in Touch →"
+  },
+  "contact": {
+    "number": "05",
+    "title": "CONTACT",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "your@email.com",
+    "subjectPlaceholder": "Select inquiry type",
+    "messagePlaceholder": "Tell us more...",
+    "subjectBooking": "Booking",
+    "subjectPrint": "Print Services",
+    "subjectCollab": "Collaboration",
+    "subjectPress": "Press",
+    "subjectOther": "Other",
+    "fieldName": "NAME",
+    "fieldEmail": "EMAIL",
+    "fieldSubject": "SUBJECT",
+    "fieldMessage": "MESSAGE",
+    "send": "SEND MESSAGE",
+    "sentTitle": "MESSAGE SENT",
+    "sentSub": "We'll get back to you soon.",
+    "labelBooking": "BOOKING",
+    "labelPrintShop": "PRINT SHOP",
+    "labelPress": "PRESS",
+    "labelFollow": "FOLLOW"
+  },
+  "footer": {
+    "copy": "© 2024 Parallel Offset. All Rights Reserved."
+  }
+}

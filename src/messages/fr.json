@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "about": "À PROPOS",
+    "music": "MUSIQUE",
+    "shows": "CONCERTS",
+    "print": "IMPRESSION",
+    "contact": "CONTACT"
+  },
+  "hero": {
+    "tagline": "POLYRYTHME · PRÉCISION · IMPRESSION",
+    "sub1": "Déplacement Polyrythmique",
+    "sub2": "Précision Chromatique",
+    "cta": "ENTRER DANS LA GRILLE",
+    "scroll": "DÉFILER"
+  },
+  "about": {
+    "number": "01",
+    "title": "À PROPOS",
+    "headline1": "Deux Sens",
+    "headline2": "de l'Offset",
+    "body1": "est né à l'intersection du rythme et de la couleur. Dans le monde du Djent, « Offset » désigne ces couches polyrythmiques délibérément décalées — où les riffs graves d'une guitare 7 cordes s'entrelacent avec des signatures rythmiques impaires, produisant un chaos précis et vertigineux.",
+    "body2": "En même temps, « Offset » est un terme d'imprimerie. Le fondateur du groupe dirige un atelier d'impression professionnel. La précision de l'impression offset CMYK — repérage, séparation des couleurs, surimpression — trouve un écho dans les couches rythmiques du Djent : chaque plaque de couleur est une piste rythmique, simple seule, complexe ensemble.",
+    "tags": {
+      "djent": "Djent",
+      "progressive": "Metal Progressif",
+      "polyrhythm": "Polyrythme",
+      "guitar": "7 Cordes",
+      "time": "9/8"
+    }
+  },
+  "music": {
+    "number": "02",
+    "title": "MUSIQUE",
+    "stream": "ÉCOUTER",
+    "download": "TÉLÉCHARGER",
+    "comingSoon": "BIENTÔT DISPONIBLE",
+    "tracks": "Titres"
+  },
+  "shows": {
+    "number": "03",
+    "title": "CONCERTS",
+    "tickets": "BILLETS",
+    "soldOut": "COMPLET"
+  },
+  "print": {
+    "number": "04",
+    "title": "IMPRESSION",
+    "headline1": "L'Impression est Musique",
+    "headline2": "La Couleur est Rythme",
+    "body1": "Le fondateur du groupe dirige également un atelier d'impression professionnel. La précision de l'impression CMYK — repérage, séparation des couleurs, surimpression — reflète la philosophie des couches polyrythmiques du Djent : chaque plaque de couleur est une piste rythmique, simple seule, complexe ensemble.",
+    "body2": "Nous proposons des services d'impression professionnels pour les groupes, labels indépendants et festivals : affiches de concert, pochettes d'albums, t-shirts sérigraphiés, autocollants et badges.",
+    "service1": "Affiches de Concert",
+    "service2": "Pochettes d'Albums",
+    "service3": "Sérigraphie",
+    "service4": "Merch",
+    "cta": "Nous Contacter →"
+  },
+  "contact": {
+    "number": "05",
+    "title": "CONTACT",
+    "namePlaceholder": "Votre nom",
+    "emailPlaceholder": "votre@email.com",
+    "subjectPlaceholder": "Sélectionnez le type de demande",
+    "messagePlaceholder": "Dites-nous en plus...",
+    "subjectBooking": "Réservation",
+    "subjectPrint": "Services d'Impression",
+    "subjectCollab": "Collaboration",
+    "subjectPress": "Presse",
+    "subjectOther": "Autre",
+    "fieldName": "NOM",
+    "fieldEmail": "EMAIL",
+    "fieldSubject": "SUJET",
+    "fieldMessage": "MESSAGE",
+    "send": "ENVOYER",
+    "sentTitle": "MESSAGE ENVOYÉ",
+    "sentSub": "Nous vous répondrons bientôt.",
+    "labelBooking": "RÉSERVATION",
+    "labelPrintShop": "ATELIER",
+    "labelPress": "PRESSE",
+    "labelFollow": "SUIVRE"
+  },
+  "footer": {
+    "copy": "© 2024 Parallel Offset. Tous droits réservés."
+  }
+}
